@@ -3,5 +3,5 @@ In order to implement this project follow the steps below;
 1)download the zip 
 2)unzip,copy and paste the code
 3)provide the file locations 
-4)execute the program
- happy coding :)
+4)execute the program.
+5) happy coding :)
